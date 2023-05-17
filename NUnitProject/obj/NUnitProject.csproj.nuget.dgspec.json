@@ -4,6 +4,59 @@
     "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/NUnitProject/NUnitProject.csproj": {}
   },
   "projects": {
+    "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/ConsoleProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/ConsoleProject.csproj",
+        "projectName": "ConsoleProject",
+        "projectPath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/ConsoleProject.csproj",
+        "packagesPath": "/home/gmess/.nuget/packages/",
+        "outputPath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gmess/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/NUnitProject/NUnitProject.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +78,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/ConsoleProject.csproj": {
+                "projectPath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/ConsoleProject.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

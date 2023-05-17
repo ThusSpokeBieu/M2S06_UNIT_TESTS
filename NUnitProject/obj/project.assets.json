@@ -381,6 +381,16 @@
             "related": ".xml"
           }
         }
+      },
+      "ConsoleProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ConsoleProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleProject.dll": {}
+        }
       }
     }
   },
@@ -975,10 +985,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ConsoleProject/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleProject/ConsoleProject.csproj",
+      "msbuildProject": "../ConsoleProject/ConsoleProject.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ConsoleProject >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
@@ -1010,7 +1026,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/ConsoleProject.csproj": {
+              "projectPath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/ConsoleProject.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
