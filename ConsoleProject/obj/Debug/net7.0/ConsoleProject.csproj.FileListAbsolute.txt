@@ -1,0 +1,15 @@
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/bin/Debug/net7.0/ConsoleProject
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/bin/Debug/net7.0/ConsoleProject.deps.json
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/bin/Debug/net7.0/ConsoleProject.runtimeconfig.json
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/bin/Debug/net7.0/ConsoleProject.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/bin/Debug/net7.0/ConsoleProject.pdb
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.csproj.AssemblyReference.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.AssemblyInfoInputs.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.AssemblyInfo.cs
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.csproj.CoreCompileInputs.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/refint/ConsoleProject.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.pdb
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ConsoleProject.genruntimeconfig.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S06_UNIT_TESTS/ConsoleProject/obj/Debug/net7.0/ref/ConsoleProject.dll
