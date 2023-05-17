@@ -19,7 +19,8 @@ public class ClasseInverteTest
         List<dynamic> result = c.InverterLista<dynamic>(lista1);
         Assert.AreEqual(expected, result);
     }
-    
+
+    [Test]    
     public void TestInverte2()
     {
         
@@ -29,6 +30,7 @@ public class ClasseInverteTest
         Assert.AreEqual(expected, result);
     }
 
+    [Test]
     public void TestInverte3()
     {
         
@@ -38,6 +40,7 @@ public class ClasseInverteTest
         Assert.AreEqual(expected, result);
     }
 
+    [Test]
     public void TestInverte4()
     {
         
@@ -47,6 +50,7 @@ public class ClasseInverteTest
         Assert.AreEqual(expected, result);
     }
     
+    [Test]
     public void TestInverte5()
     {
         
